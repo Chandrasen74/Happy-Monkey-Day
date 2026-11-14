@@ -1,28 +1,46 @@
-# Happy Monkey Day
+# Happy-Monkey-Day
+
+**Live demo:** https://chandrasen74.github.io/Happy-Monkey-Day/  
+**Repository:** https://github.com/Chandrasen74/Happy-Monkey-Day
+
+![Screenshot of Happy-Monkey-Day](screenshot.png)
 
 ## Overview
-**Happy-Monkey-Day** is a JavaScript, HTML, CSS project with a browser-viewable demo (GitHub Pages).
+`Happy-Monkey-Day` is a HTML/CSS/JavaScript project.
+- **Primary language:** HTML
+- **Languages detected:** HTML, JavaScript, CSS
+- **Stack/tech:** HTML, CSS, JavaScript
+- **Entry point:** `index.html`
+- **Key files:** `index.html`
 
-- Primary language: **HTML**
-- Detected stack: JavaScript, HTML, CSS
-- HTML title: Happy Monkey Day
+## Language & stack details
+- Languages: HTML, JavaScript, CSS
+- Frameworks/tools/libraries: HTML, CSS, JavaScript
 
-**Live/demo:** https://chandrasen74.github.io/Happy-Monkey-Day/
+## How to install & run
+### Prerequisites
+- A modern web browser
+- (Optional) [Python 3](https://www.python.org/) or any static file server for local serving
 
-## Repository contents
-- `159-1598115_png-monkey-emoticon-12-cute-monkey-icon-removebg-preview.png`
-- `README.md`
-- `index.html`
-- `script.js`
-- `style.css`
-
-## Getting started
+### Run locally
 ```bash
 git clone https://github.com/Chandrasen74/Happy-Monkey-Day.git
 cd Happy-Monkey-Day
-# open index.html in a browser, or serve locally:
+```
+- **Option 1:** open `index.html` directly in your browser
+- **Option 2:** serve locally (recommended for some JS features):
+```bash
 python -m http.server 8000
+# then open http://localhost:8000
 ```
 
+## Repository structure (top-level/sample)
+- `159-1598115_png-monkey-emoticon-12-cute-monkey-icon-removebg-preview.png`
+- `README.md`
+- `index.html`
+- `screenshot.png`
+- `script.js`
+- `style.css`
+
 ## Status
-README generated/updated as part of a profile-wide documentation pass based on repository contents.
+Documented with screenshot, language/stack details, and setup instructions as part of a profile-wide README update.
